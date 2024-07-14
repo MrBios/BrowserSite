@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDNrxZRlOKxjqHXM/XMo7AWwiyJ0bF9o+tW3SZvoCdPkwhlqEXHP6VYip5BH81hEOIKs/VY9hw102CaAs1T2LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrbio\\Desktop\\dev\\projects\\windows\\BrowserSite\\BrowserSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrbio\\.nuget\\packages\\microsoft.web.webview2\\1.0.2045.28\\microsoft.web.webview2.1.0.2045.28.nupkg.sha512",
+    "C:\\Users\\mrbio\\.nuget\\packages\\pastebin.api.csharp\\1.1.0\\pastebin.api.csharp.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

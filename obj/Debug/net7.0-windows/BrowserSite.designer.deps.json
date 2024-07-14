@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Microsoft.Web.WebView2/1.0.2045.28": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2045.28",
+            "fileVersion": "1.0.2045.28"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2045.28"
+          }
+        }
+      },
+      "Pastebin.API.CSharp/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/PastebinAPI.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Web.WebView2/1.0.2045.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QDsR/HCNjzqYZrIuNLxyfmOIqVfMq1iGyoBR3OVVlFl4NZ12T8jRC0MNpOReKfgwtO5zh8g+eBYR6RAXFltcVA==",
+      "path": "microsoft.web.webview2/1.0.2045.28",
+      "hashPath": "microsoft.web.webview2.1.0.2045.28.nupkg.sha512"
+    },
+    "Pastebin.API.CSharp/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bGv7uCdeaUYWPxiFI2h81cwLwxhfvQn5xC+9DC0Q3dzSp+KccioWZqmdQVdoG9Wy87+4RLfdNJK3e3zMjxJkpg==",
+      "path": "pastebin.api.csharp/1.1.0",
+      "hashPath": "pastebin.api.csharp.1.1.0.nupkg.sha512"
+    }
+  }
+}
